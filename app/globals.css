@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+/* Enforce clear Dhivehi font readability and flow parameters */
+.thaana-text {
+  direction: rtl;
+  unicode-bidi: isolate;
+  text-align: right;
+}
