@@ -208,3 +208,5 @@ export default function AdminPage() {
               type="button"
               className="w-full bg-blue-600 text-white font-bold py-3.5 rounded-xl text-sm hover:bg-blue-700 shadow-sm"
             >
+                Submit
+            </button>
